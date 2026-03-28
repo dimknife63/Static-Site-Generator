@@ -19,4 +19,4 @@ We explore the works of J.R.R. Tolkien, including *The Hobbit* and *The Lord of 
 
 > "I am in fact a Hobbit in all but size." – Bilbo Baggins
 
-Check out our [blog](/blog/) and [contact](/contact) pages for more.
+Check out our <a href="/blog/">blog</a> and <a href="/contact">contact</a> pages for more.
