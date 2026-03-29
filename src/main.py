@@ -5,11 +5,14 @@ import sys
 from copystatic import copy_files_recursive
 from gencontent import generate_pages_recursive
 
+# Paths
 dir_path_static = "./static"
 dir_path_docs = "./docs"
 dir_path_content = "./content"
 template_path = "./template.html"
-default_basepath = "/"  # default for local testing
+
+# Default basepath for local testing
+default_basepath = "/"
 
 def main():
     # Get basepath from CLI argument or default

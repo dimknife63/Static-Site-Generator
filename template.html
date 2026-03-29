@@ -4,11 +4,15 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ Title }}</title>
-    <link href="/Static-Site-Generator/index.css" rel="stylesheet">
+    <link href="{{ basepath }}index.css" rel="stylesheet">
 </head>
 <body>
     <article>
-        <div>{{ Content }}</div>
+        <div>
+            <div>
+                {{ Content }}
+            </div>
+        </div>
     </article>
 </body>
 </html>

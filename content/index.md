@@ -9,14 +9,14 @@ Welcome to the Tolkien Fan Club! Discover the wonders of Middle-earth and beyond
 
 We explore the works of J.R.R. Tolkien, including *The Hobbit* and *The Lord of the Rings*.
 
-<i>didn't ruin it</i>
+*didn't ruin it*
 
-<b>I like Tolkien</b> and hope you do too!
+**I like Tolkien** and hope you do too!
 
 - It can be enjoyed by children and adults alike
 
-<code>Some example code</code>
+`Some example code`
 
 > "I am in fact a Hobbit in all but size." – Bilbo Baggins
 
-Check out our <a href="/blog/">blog</a> and <a href="/contact">contact</a> pages for more.
+Check out our [blog](/blog/) and [contact](/contact) pages for more.
